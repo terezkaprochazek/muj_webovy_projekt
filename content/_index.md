@@ -1,27 +1,12 @@
 ---
-title: Home
----
+title: Cesta roverským vìkem---
 
-# Hello World! (It works!)
+# Chtìla bych založit stránku, která se bude vìnovat roverùm jako samostatné výchovné kategorii. 
 
-This are the contents of the Hugo start website front page.
+## Všichni ve skautu vidí jen rozvoj svìtlušek/vlèat (dìtí mezi 6 - 11 lety) a skautù/skautek (ve vìkovém rozmezí 11 - 15 let) a nikdo už nevidí potenciál roverské skupiny (15+) a nakládají s nimi spíše jako s levnou pracovní silou, když oddíly potøebují nìco spravit nebo udìlat.
 
-## Something to read: Sonnet LXVI.
-
-> *Tired with all these, for restful death I cry,  
-> As to behold desert a beggar born,  
-> And needy nothing trimm'd in jollity,  
-> And purest faith unhappily forsworn,  
-> And gilded honour shamefully misplaced,  
-> And maiden virtue rudely strumpeted,  
-> And right perfection wrongfully disgraced,  
-> And strength by limping sway disabled  
-> And art made tongue-tied by authority,  
-> And folly, doctor-like, controlling skill,  
-> And simple truth miscalled simplicity,  
-> And captive good attending captain ill:  
-> Tired with all these, from these would I be gone,  
-> Save that, to die, I leave my love alone.*
-> 
-> William Shakespeare
+Na této stránce bych chtìla vysvìtlit, jak by se mìla roverská kategorie brát a uvést pár programù a prostøedkù, které by mohli støediska využít, pokud by chtìli vìnovat roverùm více pozornosti.
+ - https://www.rovernet.cz/?autologin=1
+- https://www.skaut.cz/pro-rodice/roveri-a-rangeri/
+- https://rovernet.wixsite.com/roverskaporada/roverskyodbor
 
