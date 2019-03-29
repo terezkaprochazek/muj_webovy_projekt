@@ -1,11 +1,11 @@
 ---
-title: Cesta roverskım vìkem---
+title: Cesta roverskÃ½m vÄ›kem---
+---
+# ChtÄ›la bych zaloÅ¾it strÃ¡nku, kterÃ¡ se bude vÄ›novat roverÅ¯m jako samostatnÃ© vÃ½chovnÃ© kategorii. 
 
-# Chtìla bych zaloit stránku, která se bude vìnovat roverùm jako samostatné vıchovné kategorii. 
+## VÅ¡ichni ve skautu vidÃ­ jen rozvoj svÄ›tluÅ¡ek/vlÄat (dÄ›tÃ­ mezi 6 - 11 lety) a skautÅ¯/skautek (ve vÄ›kovÃ©m rozmezÃ­ 11 - 15 let) a nikdo uÅ¾ nevidÃ­ potenciÃ¡l roverskÃ© skupiny (15+) a naklÃ¡dajÃ­ s nimi spÃ­Å¡e jako s levnou pracovnÃ­ silou, kdyÅ¾ oddÃ­ly potÅ™ebujÃ­ nÄ›co spravit nebo udÄ›lat.
 
-## Všichni ve skautu vidí jen rozvoj svìtlušek/vlèat (dìtí mezi 6 - 11 lety) a skautù/skautek (ve vìkovém rozmezí 11 - 15 let) a nikdo u nevidí potenciál roverské skupiny (15+) a nakládají s nimi spíše jako s levnou pracovní silou, kdy oddíly potøebují nìco spravit nebo udìlat.
-
-Na této stránce bych chtìla vysvìtlit, jak by se mìla roverská kategorie brát a uvést pár programù a prostøedkù, které by mohli støediska vyuít, pokud by chtìli vìnovat roverùm více pozornosti.
+Na tÃ©to strÃ¡nce bych chtÄ›la vysvÄ›tlit, jak by se mÄ›la roverskÃ¡ kategorie brÃ¡t a uvÃ©st pÃ¡r programÅ¯ a prostÅ™edkÅ¯, kterÃ© by mohli stÅ™ediska vyuÅ¾Ã­t, pokud by chtÄ›li vÄ›novat roverÅ¯m vÃ­ce pozornosti.
  - https://www.rovernet.cz/?autologin=1
 - https://www.skaut.cz/pro-rodice/roveri-a-rangeri/
 - https://rovernet.wixsite.com/roverskaporada/roverskyodbor
