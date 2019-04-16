@@ -19,3 +19,9 @@ Zde ještě jako obrázek:
 
 <img src="https://is.muni.cz/www/489173/Cesta_roverskym_vekem.jpg?1555415245102"
 style="width: 640px; height: 420px;"/>
+
+V Moodboardu jsem se snažila, aby byly jak české tak i anglické zdroje, npříklad mě zaujala zahraniční stránka, která popisuje český skauting a jak funguje. Taky jsem se snažila zařadit do něj obecné informace o skautingu a ii konkrítní infromace o roverech, což je naše cílová skupina pro náš seminární projekt. Ilustrace jsem se snažila vybírat tak, aby tam byly fotky jak z tábora, z přírody, tak i obecné ilustrace například pozdravy atd. Také jsem dala několik screenshotů, které popisují přímo skautský vizuální styl, ve kterém chceme naší budoucí stránku spravovat a překvapilo mě, jaká má přísná pravidla. Překvapilo mě, kolik strnánek celkově se skautingem zabývá.
+
+A tady si můžete prohlédnout můj Mood board: 
+
+http://www.gomoodboard.com/boards/VU260TlJ/share
