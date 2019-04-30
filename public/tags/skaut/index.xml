@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skaut on Cesta roverským věkem</title>
+    <link>https://gracious-kalam-e9c5ec.netlify.com/tags/skaut/</link>
+    <description>Recent content in Skaut on Cesta roverským věkem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://gracious-kalam-e9c5ec.netlify.com/tags/skaut/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tvorba moodboardu pro náš web</title>
+      <link>https://gracious-kalam-e9c5ec.netlify.com/post/tvorba-moodboardu/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gracious-kalam-e9c5ec.netlify.com/post/tvorba-moodboardu/</guid>
+      <description>Úvod První moodboard se soustředí obecně na obvyklé vzezření skutských webů, kterými se inspirujeme a také akcentuje barevnost, která by měla více či méně korelovat s přírodou.
+Druhý moodboard vyobrazuje již spíše konkrétnější obrázky jako inspiraci materiálu, který se nám bude při tvorbě webu hodit. také se soustředí na pravidla souvesijící s použitím skautských grafických prvků.
+Použití skautské grafiky a barevnost Vzhledem ke skautskému zaměření našeho webu je nasnadě používat také skautské grafické prvky, které se dají nalézt již předdefinované.</description>
+    </item>
+    
+  </channel>
+</rss>
