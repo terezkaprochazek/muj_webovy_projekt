@@ -1,12 +1,53 @@
-.wrapper {
-  margin: 30px auto;
-  max-width: 800px;
-  padding: 20px;
+
+
+body {
+	background-image: url( https://skautibrno.cz/wp/wp-content/themes/earth/images/bg/3.png);
+	width: 80%;
+	margin: auto;
+	text-align: justify;
+	font-family: "georgia";
+	font-size: 18px;
+	color: #424242;
+
+}
+
+h1 a {
+	color: #183A5A;
+	text-decoration: none;
+	font-size: 60px;
+}
+
+
+a:link {
+    color: #C34129;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #183A5A;
+}
+
+a:hover {
+    color: #10283f;
+}
+
+h1 {
+	color: #C34129;
+	font-size: 30px;
+}
+
+.description {
+	color: #183A5A;
+
 }
 
 header {
   padding: 30px 0 0;
-  border-bottom: solid;
+  border-bottom: dotted;
+  background-image: url( https://skautibrno.cz/wp/wp-content/themes/earth/images/bg/3.png);
+  text-align: center;
+  
+
 }
 
 footer {
@@ -17,16 +58,19 @@ footer {
 .page {
   float: right;
   width: 70%;
-  border-left: solid;
   padding-left: 1.5em;
   padding-bottom: 2em;
   min-height: 400px;
+  text-align: justify;
+
 }
 
 aside {
   float: left;
   width: 25%;
   margin-top: 1em;
+  text-align: center;
+
 }
 
 nav ul {
