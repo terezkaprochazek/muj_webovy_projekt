@@ -1,6 +1,7 @@
 title: Cesta roverským věkem
 baseURL: https://gracious-kalam-e9c5ec.netlify.com/
 languageCode: cs-cz
+googleanalytics: UA-139325404-1
 publishDir: public
 
 
