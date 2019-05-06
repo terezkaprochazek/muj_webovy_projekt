@@ -1,12 +1,14 @@
 ---
 title: Cesta roverským věkem---
 ---
-# Chtěla bych založit stránku, která se bude věnovat roverům jako samostatné výchovné kategorii. 
+# Vítejte!  
 
-## Všichni ve skautu vidí jen rozvoj světlušek/vlčat (dětí mezi 6 - 11 lety) a skautů/skautek (ve věkovém rozmezí 11 - 15 let) a nikdo už nevidí potenciál roverské skupiny (15+) a nakládají s nimi spíše jako s levnou pracovní silou, když oddíly potřebují něco spravit nebo udělat.
+Tyto stránky se zabývají rozvojem skautingu pro často přehlíženou věkovou skupinu. Všichni ve skautu vidí jen rozvoj světlušek/vlčat (dětí mezi 6 - 11 lety) a skautů/skautek (ve věkovém rozmezí 11 - 15 let) a nikdo už nevidí potenciál roverské skupiny (15+) a nakládají s nimi spíše jako s levnou pracovní silou, když oddíly potřebují něco spravit nebo udělat.
 
 Na této stránce bych chtěla vysvětlit, jak by se měla roverská kategorie brát a uvést pár programů a prostředků, které by mohli střediska využít, pokud by chtěli věnovat roverům více pozornosti.
- - https://www.rovernet.cz/?autologin=1
+
+- https://www.rovernet.cz/?autologin=1
 - https://www.skaut.cz/pro-rodice/roveri-a-rangeri/
 - https://rovernet.wixsite.com/roverskaporada/roverskyodbor
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g5OLe4JmDB0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
