@@ -85,3 +85,9 @@ nav li {
 nav .active {
   font-weight: bold;
 }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
