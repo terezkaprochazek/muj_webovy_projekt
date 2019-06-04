@@ -49,8 +49,6 @@ header {
   border-bottom: dotted;
   background-image: url( https://skautibrno.cz/wp/wp-content/themes/earth/images/bg/3.png);
   text-align: center;
-  
-
 }
 
 footer {
@@ -155,4 +153,8 @@ img {
     url('https://cdn.skauting.cz/fonts/skaut-bold-webfont.svg#skautbold') format('svg');
     font-weight: normal;
     font-style: normal;
+}
+
+header img {
+  float: center;
 }
